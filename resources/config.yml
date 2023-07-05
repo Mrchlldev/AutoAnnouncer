@@ -3,7 +3,7 @@
 
 # The prefix message
 # Use '&' for colors
-prefix: "&r&8[&aAA&8] "
+prefix: " §l§b»§r§7 [§bBroadcast§7]"
 
 # enable/disable the use of prefixes.
 # true = on, false = off
@@ -16,6 +16,11 @@ interval: 1200
 # List of messages to be broadcasted
 # Use '&' for colors, Use `\n` to break the line
 messages:
-  - "&r&aWelcome to the server! \n&r&7read /rules!"
-  - "&r&7Enjoy your stay!"
-  - "&r&6Visit our website at example.com"
+  - "Ingin cepat mendapatkan money banyak? Selesaiin tugas di §e(/quest)"
+  - "Ingin membeli rank? Chat: 0822-3443-9928"
+  - "Menemukan player cheater? Lapor ke §e(/report)"
+  - "Jangan lupa untuk §eLand§f sebelum build:3"
+  - "Ingin transfer uang? transfer pakai §e(/bank)§f aja!"
+  - "Inventory penuh? Simpan ke §e(/pv 1)"
+  - "Ingin menjual item langkah? Ke §e(/market)§f aja, lalu promosikan barang di Grub server:3"
+  - "Sering dapat ampas saat gacha? Jual di §e(/sell)§f aja"
